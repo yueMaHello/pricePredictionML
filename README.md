@@ -1,4 +1,6 @@
 # pricePredictionML
+
+Collabrate with Yiding Fan
 Spatial-Temporal Data Mining for House Transactions.
 
 The purpose of the research is using the raw data and data-mining skills, such as LASSO(least absolute shrinkage and selection operator), to create a system that takes features of houses as input and prediction of the house price as the response.
